@@ -1,0 +1,27 @@
+version: "3.9"
+
+version: "3.9"
+
+services:
+    shajao:
+        container_name: shajao
+        image: wordpress:latest
+        ports:
+            - "8000:80"
+        restart: always
+        volumes:
+            - ./wordpress:/var/www/html
+            - ./uploads.ini:/usr/local/etc/php/conf.d/uploads.ini
+        networks:
+            - global
+        environment:
+            WORDPRESS_DB_HOST: db-mysql-nyc1-61164-do-user-9357078-0.b.db.ondigitalocean.com:25060
+            WORDPRESS_DB_USER: doadmin
+            WORDPRESS_DB_PASSWORD: xm6vzfo4lsigrzit
+            WORDPRESS_DB_NAME: defaultdb
+            WORDPRESS_CONFIG_EXTRA: |
+                define('WP_HOME','http://beta.shajao.com');
+                define('WP_SITEURL','http://beta.shajao.com');
+networks:
+  global:
+    external: true
