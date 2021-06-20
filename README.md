@@ -1,3 +1,1 @@
 # shajao.com
-
-test2
