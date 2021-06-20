@@ -1,3 +1,1 @@
 # shajao.com
-
-Jenkins test
