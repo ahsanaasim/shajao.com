@@ -1,0 +1,20 @@
+®û—`<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:2508;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2016-03-09 06:02:55";s:13:"post_date_gmt";s:19:"2016-03-09 06:02:55";s:12:"post_content";s:3070:"[vc_row full_width="stretch_row_content_no_spaces" css=".vc_custom_1522680729235{margin-top: 0px !important;margin-bottom: 25px !important;}"][vc_column][vc_gmaps link="#E-8_JTNDaWZyYW1lJTIwc3JjJTNEJTIyaHR0cHMlM0ElMkYlMkZ3d3cuZ29vZ2xlLmNvbSUyRm1hcHMlMkZlbWJlZCUzRnBiJTNEJTIxMW0xNCUyMTFtOCUyMTFtMyUyMTFkMTQ2MDYuNTM2NTMxMzE2NzUlMjEyZDkwLjQzNjAzMTklMjEzZDIzLjc2MDQyMjklMjEzbTIlMjExaTEwMjQlMjEyaTc2OCUyMTRmMTMuMSUyMTNtMyUyMTFtMiUyMTFzMHgwJTI1M0EweDZlNDI1YWRmZDZiN2Y0NGYlMjEyc1NoYWphby5jb20lMjUyMCUyNTdDJTI1MjBIb21lJTI1MjBEZWNvciUyNTIwTGlrZSUyNTIwTmV2ZXIlMjUyMEJlZm9yZSUyMTVlMCUyMTNtMiUyMTFzZW4lMjEyc2JkJTIxNHYxNjAxNDQ4MTUyMzIxJTIxNW0yJTIxMXNlbiUyMTJzYmQlMjIlMjB3aWR0aCUzRCUyMjYwMCUyMiUyMGhlaWdodCUzRCUyMjQ1MCUyMiUyMGZyYW1lYm9yZGVyJTNEJTIyMCUyMiUyMHN0eWxlJTNEJTIyYm9yZGVyJTNBMCUzQiUyMiUyMGFsbG93ZnVsbHNjcmVlbiUzRCUyMiUyMiUyMGFyaWEtaGlkZGVuJTNEJTIyZmFsc2UlMjIlMjB0YWJpbmRleCUzRCUyMjAlMjIlM0UlM0MlMkZpZnJhbWUlM0U=" css=".vc_custom_1601448160269{padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;}"][/vc_column][/vc_row][vc_row][vc_column width="3/4" el_class="contact-form"][vc_column_text]
+<h2 class="contact-page-title" style="text-align: center;">Give a Hi to Our Active Team!</h2>
+[/vc_column_text][vc_row_inner][vc_column_inner width="1/2"][vc_column_text]
+<h2 class="contact-page-title" style="text-align: center;">Live Messenger Support</h2>
+[/vc_column_text][vc_column_text]
+<h5 style="text-align: center;">Inbox us and Get your answer now.</h5>
+[/vc_column_text][vc_icon icon_fontawesome="fas fa-comment-dots" size="lg" align="center" link="url:https%3A%2F%2Fm.me%2FShajaoFraming%3Fref%3Dw13021110|title:Shajao%20Messenger|rel:nofollow"][vc_raw_html]JTNDZGl2JTIwY2xhc3MlM0QlMjJtY3dpZGdldC1lbWJlZCUyMiUyMGRhdGEtd2lkZ2V0LWlkJTNEJTIyMTMwMjExMjglMjIlM0UlM0MlMkZkaXYlM0UlMEE=[/vc_raw_html][/vc_column_inner][vc_column_inner width="1/2"][vc_column_text]
+<h2 class="contact-page-title" style="text-align: center;">Phone Support</h2>
+[/vc_column_text][vc_column_text]Call us anytime. : 10 am to 9 Pm.[/vc_column_text][vc_icon icon_fontawesome="fas fa-phone" size="lg" align="center" link="url:https%3A%2F%2Fm.me%2FShajaoFraming%3Fref%3Dw13021110|title:Shajao%20Messenger|rel:nofollow"][vc_column_text]
+<h4 style="text-align: center;">01707082382, 01707082381</h4>
+[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner][vc_column_inner width="1/2"][/vc_column_inner][vc_column_inner width="1/2"][/vc_column_inner][/vc_row_inner][vc_separator][/vc_column][vc_column width="1/4" el_class="store-info"][vc_column_text]
+<h2 class="contact-page-title">Our Store</h2>
+<address>E- Block, House 42, Road- 5,</address><address>Level 3, Bansree, Rampura, Dhaka 1219</address>
+<h3>Hours of Operation</h3>
+<ul class="list-unstyled operation-hours inner-right-md">
+ 	<li class="clearfix">Everyday: 10 am to 7 Pm.</li>
+</ul>
+<h3>Careers</h3>
+<p class="inner-right-md">If you're interested in employment opportunities at shajao.com, please visit bdjobs and search shajao.</p>
+[/vc_column_text][/vc_column][/vc_row]";s:10:"post_title";s:14:"Contact Shajao";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:14:"contact-shajao";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2016-03-09 06:02:55";s:17:"post_modified_gmt";s:19:"2016-03-09 06:02:55";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:49:"https://demo2.chethemes.com/electro/?page_id=2508";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

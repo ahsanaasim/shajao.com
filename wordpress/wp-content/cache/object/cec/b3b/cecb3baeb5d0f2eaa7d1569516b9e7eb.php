@@ -1,0 +1,1 @@
+®û—`<?php exit; ?>a:1:{s:7:"content";a:2:{s:29:"featured-products-footer-http";s:0:"";s:27:"onsale-products-footer-http";s:0:"";}}
